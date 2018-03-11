@@ -78,7 +78,7 @@ echo "################################################################"
 echo "removing all folders and files unnecessary for this desktop from .local"
 echo "################################################################"
 echo
-rm -rf ~/.local/share/applications
+#rm -rf ~/.local/share/applications
 #rm -rf ~/.local/share/xfpanel-switch
 
 
