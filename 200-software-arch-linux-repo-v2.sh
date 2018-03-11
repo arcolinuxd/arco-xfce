@@ -31,7 +31,7 @@ sudo pacman -S --noconfirm --needed variety
 echo "Installing category Development"
 
 sudo pacman -S --noconfirm --needed atom
-sudo pacman -S --noconfirm --needed geany
+#sudo pacman -S --noconfirm --needed geany
 sudo pacman -S --noconfirm --needed meld
 #sudo pacman -S --noconfirm --needed
 
@@ -59,20 +59,21 @@ echo "Installing category Internet"
 sudo pacman -S --noconfirm --needed chromium
 sudo pacman -S --noconfirm --needed filezilla
 sudo pacman -S --noconfirm --needed firefox
-sudo pacman -S --noconfirm --needed hexchat
+#sudo pacman -S --noconfirm --needed hexchat
 sudo pacman -S --noconfirm --needed transmission-cli
 sudo pacman -S --noconfirm --needed transmission-gtk
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Multimedia"
 
-sudo pacman -S --noconfirm --needed clementine
-sudo pacman -S --noconfirm --needed deadbeef
+#sudo pacman -S --noconfirm --needed clementine
+#sudo pacman -S --noconfirm --needed deadbeef
 #sudo pacman -S --noconfirm --needed mpv
-sudo pacman -S --noconfirm --needed openshot
-sudo pacman -S --noconfirm --needed shotwell
+#sudo pacman -S --noconfirm --needed openshot
+sudo pacman -S --noconfirm --needed pragha
+#sudo pacman -S --noconfirm --needed shotwell
 sudo pacman -S --noconfirm --needed simplescreenrecorder
-sudo pacman -S --noconfirm --needed smplayer
+#sudo pacman -S --noconfirm --needed smplayer
 sudo pacman -S --noconfirm --needed vlc
 #sudo pacman -S --noconfirm --needed
 
@@ -80,8 +81,8 @@ echo "Installing category Office"
 
 sudo pacman -S --noconfirm --needed evince
 sudo pacman -S --noconfirm --needed evolution
-sudo pacman -S --noconfirm --needed geary
-sudo pacman -S --noconfirm --needed libreoffice-fresh
+#sudo pacman -S --noconfirm --needed geary
+#sudo pacman -S --noconfirm --needed libreoffice-fresh
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Other"
@@ -90,7 +91,7 @@ echo "Installing category Other"
 
 echo "Installing category System"
 
-sudo pacman -S --noconfirm --needed archey3
+#sudo pacman -S --noconfirm --needed archey3
 sudo pacman -S --noconfirm --needed baobab
 sudo pacman -S --noconfirm --needed bleachbit
 sudo pacman -S --noconfirm --needed curl
@@ -101,8 +102,8 @@ sudo pacman -S --noconfirm --needed git
 sudo pacman -S --noconfirm --needed gksu
 sudo pacman -S --noconfirm --needed glances
 sudo pacman -S --noconfirm --needed gnome-disk-utility
-sudo pacman -S --noconfirm --needed gnome-system-monitor
-sudo pacman -S --noconfirm --needed gnome-terminal
+#sudo pacman -S --noconfirm --needed gnome-system-monitor
+#sudo pacman -S --noconfirm --needed gnome-terminal
 #sudo pacman -S --noconfirm --needed gnome-tweak-tool
 sudo pacman -S --noconfirm --needed gparted
 sudo pacman -S --noconfirm --needed grsync
@@ -125,7 +126,7 @@ sudo pacman -S --noconfirm --needed screenfetch
 sudo pacman -S --noconfirm --needed scrot
 sudo pacman -S --noconfirm --needed simple-scan
 sudo pacman -S --noconfirm --needed sysstat
-sudo pacman -S --noconfirm --needed terminator
+#sudo pacman -S --noconfirm --needed terminator
 sudo pacman -S --noconfirm --needed termite
 sudo pacman -S --noconfirm --needed thunar
 sudo pacman -S --noconfirm --needed thunar-archive-plugin

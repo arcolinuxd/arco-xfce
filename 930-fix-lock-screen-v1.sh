@@ -13,7 +13,7 @@ set -e
 #
 ##################################################################################################################
 
-echo "Change lock screen to standard lock screen in ARCOLINUX ..."
+echo "Change lock screen to standard lock screen in ArcoLinux ..."
 
 sudo sed -i 's/current_theme       default/current_theme       arcolinux_transfer/g' /etc/slim.conf
 
