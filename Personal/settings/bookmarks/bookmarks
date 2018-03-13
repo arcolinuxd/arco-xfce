@@ -3,8 +3,6 @@ file:///home/erik/Documents Documents
 file:///home/erik/Music Music
 file:///home/erik/Pictures Pictures
 file:///home/erik/Videos Videos
-file:///home/erik/Insync Insync
-file:///home/erik/Dropbox
 file:///home/erik/ARCOLINUX ARCOLINUX
 file:///home/erik/ARCOLINUXD ARCOLINUXD
 file:///home/erik/DATA DATA
@@ -18,7 +16,6 @@ file:///usr/share/icons icons
 file:///home/erik/.themes .themes
 file:///usr/share/themes themes
 file:///usr/share/applications applications
-file:///home/erik/.local .local
 file:///etc/skel skel
 file:///opt opt
 file:///tmp tmp
