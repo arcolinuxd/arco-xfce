@@ -2,7 +2,7 @@
 set -e
 ##################################################################################################################
 # Author 	: 	Erik Dubois
-# Website : https://www.erikdubois.be
+# Website 	: 	https://www.erikdubois.be
 # Website	:	https://www.arcolinux.info
 # Website	:	https://www.arcolinux.com
 # Website	:	https://www.arcolinuxd.com
@@ -15,10 +15,6 @@ set -e
 
 # software from AUR (Arch User Repositories)
 # https://aur.archlinux.org/packages/
-
-#giving tmp folder extra gb in order not to run out of disk space while installing software
-#only if you run into issues with that
-#sudo mount -o remount,size=5G,noatime /tmp
 
 echo "DESKTOP SPECIFIC APPLICATIONS"
 
