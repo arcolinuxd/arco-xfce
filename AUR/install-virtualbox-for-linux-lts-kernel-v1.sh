@@ -14,7 +14,6 @@ set -e
 ##################################################################################################################
 
 sudo pacman -S --noconfirm --needed virtualbox-host-dkms
-sudo pacman -S --noconfirm --needed linux-headers
 sudo pacman -S --noconfirm --needed linux-lts-headers
 
 package="virtualbox"
@@ -35,7 +34,7 @@ else
 
 		echo "Installing with yaourt"
 		yaourt -S --noconfirm $package
-		
+
 	elif pacman -Qi pacaur &> /dev/null; then
 
 		echo "Installing with pacaur"
