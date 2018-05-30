@@ -19,7 +19,7 @@ echo "and run the alias - mirror in the terminal"
 echo "#################################################"
 
 sudo pacman -Syyu
-sudo pacman -S lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings --noconfirm --needed
+sudo pacman -S lightdm --noconfirm --needed
 sudo pacman -S xfce4 xfce4-goodies --noconfirm --needed
 sudo systemctl enable lightdm.service -f
 sudo systemctl set-default graphical.target
