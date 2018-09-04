@@ -33,7 +33,7 @@ else
 		echo "################################################################"
 		echo "######### Installing with yay"
 		echo "################################################################"
-		yay -S --noconfirm $package
+		yay -S --noconfirm --needed $package
 
 	elif pacman -Qi trizen &> /dev/null; then
 
