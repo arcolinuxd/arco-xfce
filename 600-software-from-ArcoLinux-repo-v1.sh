@@ -90,8 +90,8 @@ echo "removing all folders and files unnecessary for this dekstop from .config"
 echo "################################################################"
 echo
 rm ~/.config/autostart/calamares.desktop
-rm -rf ~/.config/volumeicon
 rm ~/.config/compton.conf
+rm -rf ~/.config/volumeicon
 
 echo "################################################################"
 echo "removing all folders and files unnecessary for this desktop from .local"
