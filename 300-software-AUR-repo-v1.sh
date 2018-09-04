@@ -40,7 +40,6 @@ echo "Installing category Games"
 
 echo "Installing category Graphics"
 
-sh AUR/install-font-manager-v*.sh
 
 echo "Installing category Internet"
 
