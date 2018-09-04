@@ -14,6 +14,7 @@ set -e
 ##################################################################################################################
 
 echo "Creating common folders in correct language"
+xdg-user-dirs-update
 xdg-user-dirs-update --force
 
 echo "Creating private folders we use later"
