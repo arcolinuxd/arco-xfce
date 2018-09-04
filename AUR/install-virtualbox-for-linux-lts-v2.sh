@@ -13,6 +13,8 @@ set -e
 #
 ##################################################################################################################
 
+echo "This script assumes you have the linux-lts kernel running"
+
 sudo pacman -S --noconfirm --needed virtualbox
 sudo pacman -S --needed virtualbox-host-dkms
 sudo pacman -S --noconfirm --needed linux-lts-headers
