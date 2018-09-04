@@ -47,7 +47,7 @@ sh AUR/install-font-manager-v*.sh
 echo "Installing category Internet"
 
 #sh AUR/install-skypeforlinux-stable-bin-v*.sh
-sh AUR/install-vivaldi-v*.sh
+sh AUR/install-vivaldi-and-ffmeg-codecs-v*.sh
 
 
 echo "Installing category Multimedia"
