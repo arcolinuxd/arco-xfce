@@ -21,6 +21,8 @@ sh AUR-DS/install-menulibre-v*.sh
 
 sh AUR/install-yad-v*.sh
 
+sh AUR/install-xfce4-panel-profiles-v*.sh
+
 echo "################################################################"
 echo "####       Software from AUR-DS folder installed          ######"
 echo "################################################################"
