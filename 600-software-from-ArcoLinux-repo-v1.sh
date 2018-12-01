@@ -99,7 +99,7 @@ echo "################################################################"
 echo "removing all folders and files unnecessary for this dekstop from .config"
 echo "################################################################"
 echo
-rm ~/.config/autostart/calamares.desktop
+
 rm ~/.config/compton.conf
 rm -rf ~/.config/volumeicon
 
