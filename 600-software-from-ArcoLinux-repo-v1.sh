@@ -59,6 +59,7 @@ sudo pacman -S arcolinux-rofi-themes-git --noconfirm --needed
 sudo pacman -S arcolinux-root-git --noconfirm --needed
 sudo pacman -S arcolinux-slim --noconfirm --needed
 sudo pacman -S arcolinux-slimlock-themes-git --noconfirm --needed
+sudo pacman -S arcolinux-system-config-git --noconfirm --needed
 sudo pacman -S arcolinux-termite-themes-git --noconfirm --needed
 #sudo pacman -S arcolinux-tint2-git --noconfirm --needed
 #sudo pacman -S arcolinux-tint2-themes-git --noconfirm --needed
