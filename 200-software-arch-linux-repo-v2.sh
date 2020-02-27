@@ -50,6 +50,10 @@ echo "Installing category Education"
 echo "Installing category Games"
 
 #sudo pacman -S --noconfirm --needed
+sudo pacman -S --noconfirm --needed kmines
+sudo pacman -S --noconfirm --needed steam-native-runtime steam
+sudo pacman -S --noconfirm --needed supertuxkart
+sudo pacman -S --noconfirm --needed wesnoth
 
 echo "Installing category Graphics"
 
@@ -65,15 +69,17 @@ sudo pacman -S --noconfirm --needed ristretto
 
 echo "Installing category Internet"
 
-sudo pacman -S --noconfirm --needed chromium
+#sudo pacman -S --noconfirm --needed chromium
 #sudo pacman -S --noconfirm --needed filezilla
 sudo pacman -S --noconfirm --needed firefox
-#sudo pacman -S --noconfirm --needed hexchat
+sudo pacman -S --noconfirm --needed hexchat
 sudo pacman -S --noconfirm --needed qbittorrent
+sudo pacman -S --noconfirm --needed telegram-desktop
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Multimedia"
 
+sudo pacman -S --noconfirm --needed audacity
 #sudo pacman -S --noconfirm --needed clementine
 #sudo pacman -S --noconfirm --needed deadbeef
 #sudo pacman -S --noconfirm --needed mpv
@@ -90,7 +96,11 @@ echo "Installing category Office"
 sudo pacman -S --noconfirm --needed evince
 sudo pacman -S --noconfirm --needed evolution
 #sudo pacman -S --noconfirm --needed geary
-#sudo pacman -S --noconfirm --needed libreoffice-fresh
+sudo pacman -S --noconfirm --needed gnucash
+sudo pacman -S --noconfirm --needed hunspell hunspell-en_US
+sudo pacman -S --noconfirm --needed hyphen hyphen-en
+sudo pacman -S --noconfirm --needed libmythes mythes-en
+sudo pacman -S --noconfirm --needed libreoffice-fresh
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Other"
