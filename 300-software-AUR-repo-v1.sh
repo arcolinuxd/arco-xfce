@@ -32,7 +32,7 @@ sleep 3
 
 echo "Installing category Accessories"
 
-sh AUR/install-conky-lua-archers-v*.sh
+#sh AUR/install-conky-lua-archers-v*.sh
 sh AUR/install-mintstick-git-v*.sh
 
 echo "Installing category Development"
