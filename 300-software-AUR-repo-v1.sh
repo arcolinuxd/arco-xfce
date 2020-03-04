@@ -62,6 +62,7 @@ sh AUR/install-radiotray-v*.sh
 
 echo "Installing category Office"
 
+sh AUR/install-joplin-v*.sh
 
 echo "Installing category Other"
 
@@ -85,6 +86,7 @@ sh AUR/install-the-platinum-searcher-bin-v*.sh
 sh AUR/install-ttf-font-awesome-v*.sh
 sh AUR/install-ttf-mac-fonts-v*.sh
 sh AUR/install-virtualbox-for-linux-v*.sh
+sh AUR/install-zsh-v*.sh
 
 # these come always last
 
