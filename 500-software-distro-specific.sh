@@ -38,7 +38,7 @@ func_install() {
     	echo "###############################################################################"
     	echo
     	tput sgr0
-    	sudo pacman -S --noconfirm --needed $1 
+    	sudo pacman -S --noconfirm --needed $1
     fi
 }
 
@@ -55,11 +55,12 @@ func_category() {
 func_category Additional-distro-specific
 
 list=(
-gtk-engine-murrine
 dmenu
-lxrandr 
+gtk-engine-murrine
+lxrandr
+menu-libre
+mugshot
 w3m
-xfce4-notifyd
 hardcode-fixer-git
 )
 
