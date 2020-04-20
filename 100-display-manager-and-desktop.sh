@@ -52,12 +52,12 @@ arcolinux-lightdm-gtk-greeter-settings
 arcolinux-wallpapers-git
 xfce4
 xfce4-goodies
-thunar
-thunar-archive-plugin
-thunar-volman
 arcolinux-xfce-git
 arcolinux-config-xfce-git
 arcolinux-xfce-dconf-git
+thunar
+thunar-archive-plugin
+thunar-volman
 )
 
 count=0
