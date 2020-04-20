@@ -58,7 +58,7 @@ list=(
 dmenu
 gtk-engine-murrine
 lxrandr
-menu-libre
+menulibre
 mugshot
 w3m
 hardcode-fixer-git
