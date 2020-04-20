@@ -38,7 +38,7 @@ func_install() {
     	echo "###############################################################################"
     	echo
     	tput sgr0
-    	sudo pacman -S --noconfirm --needed $1 
+    	sudo pacman -S --noconfirm --needed $1
     fi
 }
 
@@ -58,7 +58,10 @@ list=(
 arcolinux-arc-themes-nico-git
 arcolinux-bin-git
 arcolinux-hblock-git
+arcolinux-faces-git
 arcolinux-local-xfce4-git
+arcolinux-kvantum-git
+arcolinux-local-applications-git
 arcolinux-nitrogen-git
 arcolinux-plank-git
 arcolinux-plank-themes-git
@@ -66,6 +69,7 @@ arcolinux-qt5-git
 arcolinux-root-git
 arcolinux-termite-themes-git
 arcolinux-variety-git
+arcolinux-xfce4-panel-profiles-git
 )
 
 count=0

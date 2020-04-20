@@ -56,8 +56,8 @@ thunar
 thunar-archive-plugin
 thunar-volman
 arcolinux-xfce-git
-arcolinux-xfce-dconf-git
 arcolinux-config-xfce-git
+arcolinux-xfce-dconf-git
 )
 
 count=0
