@@ -38,7 +38,7 @@ func_install() {
     	echo "###############################################################################"
     	echo
     	tput sgr0
-    	sudo pacman -S --noconfirm --needed $1 
+    	sudo pacman -S --noconfirm --needed $1
     fi
 }
 
@@ -56,7 +56,7 @@ func_category Conky
 
 list=(
 conky-lua-archers
-arcolinux-conky-collection-git
+arcolinux-conky-collection-plasma-git
 arcolinux-pipemenus-git
 arcolinux-root-git
 yad

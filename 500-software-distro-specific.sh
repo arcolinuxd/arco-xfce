@@ -56,8 +56,6 @@ func_category Additional-distro-specific
 
 list=(
 dmenu
-gtk-engine-murrine
-lxrandr
 menulibre
 mugshot
 w3m
