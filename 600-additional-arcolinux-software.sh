@@ -57,6 +57,7 @@ func_category Arcolinux
 list=(
 arcolinux-arc-themes-nico-git
 arcolinux-bin-git
+arcolinux-config-xfce-git
 arcolinux-hblock-git
 arcolinux-faces-git
 arcolinux-local-xfce4-git
@@ -69,6 +70,8 @@ arcolinux-qt5-git
 arcolinux-root-git
 arcolinux-termite-themes-git
 arcolinux-variety-git
+arcolinux-xfce-dconf-git
+arcolinux-xfce-git
 arcolinux-xfce4-panel-profiles-git
 )
 
