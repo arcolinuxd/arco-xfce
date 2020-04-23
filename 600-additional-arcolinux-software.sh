@@ -55,9 +55,10 @@ func_category() {
 func_category Arcolinux-Desktop
 
 list=(
+arcolinux-config-xfce-git
 arcolinux-faces-git
 arcolinux-local-applications-git
-arcolinux-config-xfce-git
+arcolinux-local-xfce4-git
 arcolinux-xfce-dconf-git
 arcolinux-xfce-git
 arcolinux-xfce4-panel-profiles-git
@@ -78,6 +79,7 @@ arcolinux-bin-git
 arcolinux-hblock-git
 arcolinux-root-git
 arcolinux-termite-themes-git
+arcolinux-tweak-tool-git
 arcolinux-variety-git
 )
 
