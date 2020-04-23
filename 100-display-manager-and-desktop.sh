@@ -53,6 +53,7 @@ arcolinux-lightdm-gtk-greeter-settings
 arcolinux-wallpapers-git
 xfce4
 xfce4-goodies
+arcolinux-local-xfce4-git
 )
 
 count=0
