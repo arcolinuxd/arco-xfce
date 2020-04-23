@@ -57,7 +57,6 @@ func_category Arcolinux-Desktop
 list=(
 arcolinux-faces-git
 arcolinux-local-applications-git
-arcolinux-local-xfce4-git
 arcolinux-config-xfce-git
 arcolinux-xfce-dconf-git
 arcolinux-xfce-git
