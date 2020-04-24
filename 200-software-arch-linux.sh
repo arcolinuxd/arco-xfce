@@ -120,7 +120,6 @@ done
 func_category Multimedia
 
 list=(
-simplescreenrecorder
 vlc
 )
 
