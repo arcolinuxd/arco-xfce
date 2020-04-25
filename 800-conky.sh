@@ -58,7 +58,6 @@ list=(
 conky-lua-archers
 arcolinux-conky-collection-plasma-git
 arcolinux-pipemenus-git
-arcolinux-root-git
 yad
 libpulse
 )
