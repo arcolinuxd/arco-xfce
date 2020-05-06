@@ -56,7 +56,7 @@ func_category Conky
 
 list=(
 conky-lua-archers
-arcolinux-conky-collection-plasma-git
+arcolinux-conky-collection-git
 arcolinux-pipemenus-git
 yad
 libpulse
