@@ -59,7 +59,7 @@ arcolinux-config-all-desktops-git
 arcolinux-faces-git
 arcolinux-local-applications-git
 arcolinux-local-xfce4-git
-arcolinux-xfce-dconf-git
+arcolinux-dconf-all-desktops-git
 arcolinux-xfce-git
 arcolinux-xfce4-panel-profiles-git
 )
