@@ -51,7 +51,7 @@ sddm
 arcolinux-wallpapers-git
 xfce4
 xfce4-goodies
-arcolinux-logout-git
+archlinux-logout-git
 )
 
 count=0
