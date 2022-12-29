@@ -61,7 +61,7 @@ arcolinux-local-applications-git
 arcolinux-local-xfce4-git
 arcolinux-dconf-all-desktops-git
 arcolinux-xfce-git
-arcolinux-xfce4-panel-profiles-git
+arcolinux-xfce-panel-profiles-git
 )
 
 count=0
