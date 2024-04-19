@@ -60,7 +60,7 @@ arcolinux-faces-git
 arcolinux-local-applications-git
 arcolinux-local-xfce4-git
 arcolinux-dconf-all-desktops-git
-arcolinux-xfce-git
+arconet-xfce
 arcolinux-xfce-panel-profiles-git
 )
 
